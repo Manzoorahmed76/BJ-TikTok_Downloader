@@ -1,5 +1,5 @@
 export const headerData = {
-  subTitle: 'Tiktok Video Downloader',
+  subTitle: 'BJ Tiktok Video Downloader',
   description:
     'A web app that downloads tiktok videos without the annoying tiktok watermark.',
   faq: [
@@ -15,5 +15,5 @@ export const headerData = {
     },
   ],
   tech: ['React.js', 'Mantine a frontend components framework', 'Tiktokwm Api'],
-  dev: 'Raffy Amoguis',
+  dev: 'Mr,BaBlU',
 };
