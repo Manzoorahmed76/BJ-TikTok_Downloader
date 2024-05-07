@@ -37,10 +37,11 @@ export default function App() {
             <Header />
 
             <Title order={3} align="center" sx={{ marginTop: "4em" }}>
-              Tiktok Video Downloader
+             BJ Tiktok Video Downloader
             </Title>
             <Title order={6} align="center">
               Download Tiktok Videos Without Watermark
+              Developed By Mr,BaBlU
             </Title>
 
             <Fields />
