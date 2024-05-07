@@ -24,7 +24,7 @@ const Header: React.FC = () => {
   return (
     <Group position="apart" mt="md">
       <Anchor underline={false} size={30} variant="text" weight="bold">
-        TikTok
+       BJ TikTok
         <Text component="span" color="grape">
           Save
         </Text>
@@ -40,7 +40,7 @@ const Header: React.FC = () => {
       >
         <Divider my="sm" />
         <Title order={2}>
-          TikTok
+         BJ TikTok
           <Text component="span" color="grape">
             Save
           </Text>
